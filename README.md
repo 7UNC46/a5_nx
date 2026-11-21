@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="launcher/icon.jpg" alt="Asphalt 5 HD" width="160">
+  
 # a5_nx
 
 **Asphalt 5 HD on Nintendo Switch**
